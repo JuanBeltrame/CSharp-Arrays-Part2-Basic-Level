@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAlternates", "PrintAlternates\PrintAlternates.csproj", "{9839F55F-3256-4FA2-8A36-D455F9E3425E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{6D0B5DE5-8F8D-4ABD-AD89-EA36035FBEA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9839F55F-3256-4FA2-8A36-D455F9E3425E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9839F55F-3256-4FA2-8A36-D455F9E3425E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9839F55F-3256-4FA2-8A36-D455F9E3425E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0B5DE5-8F8D-4ABD-AD89-EA36035FBEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0B5DE5-8F8D-4ABD-AD89-EA36035FBEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0B5DE5-8F8D-4ABD-AD89-EA36035FBEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0B5DE5-8F8D-4ABD-AD89-EA36035FBEA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
