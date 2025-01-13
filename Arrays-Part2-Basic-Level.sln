@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Alternates", "Print A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Consecutive Ones", "Max Consecutive Ones\Max Consecutive Ones.csproj", "{478294CB-A4CD-FD8C-7844-DB0BDE0FE36C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Numbers with Even Number of Digits", "Find Numbers with Even Number of Digits\Find Numbers with Even Number of Digits.csproj", "{7C8BBD44-D6EA-4B4A-8CB8-2C5EBA1DD112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +23,15 @@ Global
 		{478294CB-A4CD-FD8C-7844-DB0BDE0FE36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478294CB-A4CD-FD8C-7844-DB0BDE0FE36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478294CB-A4CD-FD8C-7844-DB0BDE0FE36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8BBD44-D6EA-4B4A-8CB8-2C5EBA1DD112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8BBD44-D6EA-4B4A-8CB8-2C5EBA1DD112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8BBD44-D6EA-4B4A-8CB8-2C5EBA1DD112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8BBD44-D6EA-4B4A-8CB8-2C5EBA1DD112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADB45A0-1DFE-4B09-99F6-7E93168A257C}
 	EndGlobalSection
 EndGlobal
